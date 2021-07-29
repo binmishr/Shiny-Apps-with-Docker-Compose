@@ -1,4 +1,4 @@
-# Shiny-Apps-with-Docker-Compose-De
+# Shiny-Apps-with-Docker-Compose
 Development Details
 
  Use Docker Compose to simplify Shiny app deployment and reach dev/prod parity. Part 1 looks at local development.
