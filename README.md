@@ -1,7 +1,7 @@
 # Shiny-Apps-with-Docker-Compose
 Development Details
 
- Use Docker Compose to simplify Shiny app deployment and reach dev/prod parity. Part 1 looks at local development.
+ Use Docker Compose to simplify Shiny app deployment and reach dev/prod parity. 
 
 This post picks up where we left off with hosting Shiny apps with Docker run and Caddy server. There were a few shortcomings with that very basic setup: the home page looked very blunt, and managing updates to the apps was not at all streamlined.
 
